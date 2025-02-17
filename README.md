@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Kritesh Timsina</h1>
+<h1 align="left">Hi 👋, I'm Mayank Prasad Paudel</h1>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&lines=Web+Developer;Passionate+Musician;Tech+enthusiast"></a>
 </p>
