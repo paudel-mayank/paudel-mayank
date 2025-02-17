@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [kriteshtimsina.com.np](https://kriteshtimsina.com.np)
 
-- 📫 How to reach me **kriteshtimsina55@gmail.com**
+- 📫 How to reach me **mayankpaudel8@@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
